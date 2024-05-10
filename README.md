@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @MILLjosh02
+- 👋 Hi, I’m @MILLjosh02 / Joshua Millonado.
 - 👀 I’m interested in videogames and software development
-- 🌱 I’m currently learning FPGA/Verilog
+- 🌱 I’m currently recent graduate. 
 - 💞️ I’m looking to collaborate on videogames and other software development
 - 📫 How to reach me josh.millonado.02@gmail.com
 
